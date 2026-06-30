@@ -1,3 +1,6 @@
-#Learning Resources
+# Learning Resources
 
-##Astronomy Fundamentals
+## Astronomy Fundamentals
+- https://en.wikipedia.org/wiki/Star
+- https://mathworld.wolfram.com/Spheroid.html
+- https://en.wikipedia.org/wiki/Starlight
