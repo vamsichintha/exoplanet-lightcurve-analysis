@@ -1,1 +1,3 @@
+# Astronomy
 
+This document contains all the required knowledge about this topic like, exoplanets, stellar light curves, transit detection methods, ...
