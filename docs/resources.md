@@ -2,7 +2,7 @@
 
 ## Astronomy Fundamentals
 
-- https://en.wikipedia.org/wiki/Star
-- https://mathworld.wolfram.com/Spheroid.html
-- https://en.wikipedia.org/wiki/Starlight
-
+- [Star](https://en.wikipedia.org/wiki/Star)
+- [Spheroid](https://mathworld.wolfram.com/Spheroid.html)
+- [Nominal values for selected solar quantities](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41)
+-[Solar luminosity](https://en.wikipedia.org/wiki/Solar_luminosity)
