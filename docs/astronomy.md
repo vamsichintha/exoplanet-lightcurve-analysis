@@ -16,7 +16,7 @@ G = 6.67408 \times 10^{-11} m^3 kg^{-1} s^{-2}
 $$
 nominal solar mass,
 $$
-\text{M}_\odot = 1.988475 \times 10^{30} kg
+M_\odot = 1.988475 \times 10^{30} \mathrm{kg}
 $$
 
 nominal solar mass parameter:	$G \text{M}_\odot= 1.3271244 \times 10^{20} m^3 s^{-2}$
@@ -35,15 +35,15 @@ The luminosity of a star is the amount of light and other forms of *radiant ener
 ### Radiant Flux [Watt]
 While Luminosity is energy radiated from the surface of the source, radiant flux (or radiant power) is the radiant energy emitted, reflected, transmitted or recieved per unit time, **i.e. radiant energy per unit time**. 
 $$
-\phi_e = \frac{dQ_e}{dt}
+\Phi_e = \frac{dQ_e}{dt}
 $$
 
 $Q_e$ is the radiant energy.
 
-### Irradiance [$W \cdot m^{-2}$]
+### Irradiance ($\mathrm{W \cdot m^{-2}}$)
 Irradiance is the radiant flux recieved per unit area.
 $$
-E_e = \frac{\partial \phi_e }{\partial A}
+E_e = \frac{\partial \Phi_e }{\partial A}
 $$
 It obeys inverse square law.
 
