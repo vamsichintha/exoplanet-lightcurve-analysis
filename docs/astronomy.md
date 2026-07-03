@@ -44,5 +44,25 @@ $$
 It obeys inverse square law.
 
 
+## Exoplanets
+
+An exoplanet or extrasolar planet is a planet outside the Solar System. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## References
 [^1]:[Nominal values for selected solar quantities](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41)
