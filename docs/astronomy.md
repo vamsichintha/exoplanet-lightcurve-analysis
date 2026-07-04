@@ -43,26 +43,52 @@ $$
 
 It obeys inverse square law.
 
+### Starspots
+
+ Many stars do not radiate uniformly across their entire surface. Patches of the star's surface with a lower temperature and luminosity than average are known as starspots. Small, dwarf stars such as the Sun generally have essentially featureless disks with only small starspots. Giant stars have much larger, more obvious starspots.
+
+### Magnitude
+
+The apparent brightness of a star is expressed in terms of its **apparent magnitude [m]**, it is a function of its luminosity and distance from earth, as the intensity of radiation recieved will change with distance from source. It also depends on the extinction effect of interstellar dust and gas, and the altering of the star's light as it passes through Earth's atmosphere.
+
+Intrinsic or **absolute magnitude [M]** is a fuction of the star's luminosity without any dependence on the distance from earth as it is the apparent magnitude if the distance is 10 parsec (32.6 light years).
+
+Both the apparent and absolute magnitude scales are logarithmic units: one whole number difference in magnitude is equal to a brightness variation of about 2.512 times. 
+
+this constant is taken by forming this general definition
+
+*A difference of 5 magnitudes corresponds to exactly a factor of 100 in brightness.*
+
+$$
+x^5 = 100
+$$
+
+$$
+x = 100^{1/5} = 2.511886
+$$
+
+If a star with magnitude 3 is 2.512 times brighter than magnitude 4 star.
+
+### Variable Stars
+
+Variable stars have periodic or random changes in luminosity because of intrinsic or extrinsic properties.
+
+Variation due to instrinsic properties :
+
+1. **Pulsating variable stars** have periodic variation in radius, luminosity.
+2. **Eruptive variables** have sudden increases in luminosity due to flares or mass ejection events.
+3. **Cataclysmic or explosive variables** have dramatic changes due to explosions, sudden outbursts these include supernovae.
+
+Variation due to extrinsic properties :
+1. **Eclipsing binaries** 
+2. **Rotating stars that produce extreme starspots**
+3. **Exoplanet Transit**
+
+
 
 ## Exoplanets
 
 An exoplanet or extrasolar planet is a planet outside the Solar System. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## References
 [^1]:[Nominal values for selected solar quantities](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41)
