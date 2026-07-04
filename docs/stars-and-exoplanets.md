@@ -8,7 +8,7 @@ A star is a luminous spheroid *(ellipsoid having two axes of equal length)* of p
 
 ### Stellar Parameters
 Generally, stellar parameters *(like mass, luminosity, radii)* are expressed in solar units instead of SI units.
-These nominal solar values are given by IAU[^1] in SI units,
+These nominal solar values are given by IAU in SI units,
 
 |Quantity|Value|
 |---|---|
@@ -154,5 +154,3 @@ An exoplanet or extrasolar planet is a planet outside the Solar System.
 
 
 
-## References
-[^1]:[Nominal values for selected solar quantities](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41)
