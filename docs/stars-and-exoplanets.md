@@ -132,19 +132,32 @@ Noise refers to any unwanted variation in measured brightness, that can be cause
 - **Stellar noise** (Starspots, Flares)
 
 
-## Exoplanets
+### Exoplanets
 
 An exoplanet or extrasolar planet is a planet outside the Solar System. 
 
+For any celestial body to be identified as an exoplanet, it must satisfy this criteria as per IAU,
+1. It must be less than 13 times the mass of Jupiter.
+2. It should orbit a regular star or a brown dwarf or a stellar remanent.
+3. It should have mass less than 4% of the object it is orbiting.
 
+These exoplanets are named by adding a lower-case letter after the name of their star. A planet discovered around a star $ABC \ 007$ is named, $ABC\ 007b$, the letter 'a' is for the star itself.
 
+### Habitable zone
 
+There is a region around stars, where a planet can possibly sustain life as on earth.
 
+The Habitable zone (Goldilocks zone) is a region which has the right temperature, while this is an important factor, this alone is not sufficient.
 
+In our solar system, Earth sits right in the middle of the habitale zone, Venus is at the inner region, Mars at the outer region but both cannot sustain life due to their atmospheric conditions.
 
+### Discovery methods
 
-
-
+It is very difficult to find these exoplanet through optical imaging, so most of the exopalnets are found using **the transit method and the radial-velocity method**. There are other less used methods like gravitational microlensing.
+1. **Imaging** - It is extremely hard to find exoplantes directly through imaging as they are too faint to be detected by the cameras.
+2. **Transit** - Whenever an exoplanet crosses (transits) its star, the observed brightness drops a bit depending on the size and orbit of the planet. To detect this dip in brightness, the planet's orbit should be in the same line of sight as the star and Earth.
+3. **Radial velocity** - As the planet revolves around the star, the star revolves around the common center of mass of that planetary system, we can detect this by observing the shift in the radial velocity of the star due to Doppler effect as it moves closer and away from Earth.
+4. **Gravitational Microlensing** - As the planet revolves around the star it causes gravitational lensing to the light coming from the star and causes measurable variation in magnification over time.
 
 
 
