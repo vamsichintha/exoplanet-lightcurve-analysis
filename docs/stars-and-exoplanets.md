@@ -1,9 +1,9 @@
-# Astronomy
+# Stars and Exoplanets
 
-This document contains all the required knowledge about this topic like, exoplanets, stellar light curves, transit detection methods, etc
+This document contains all the required knowledge about this topic like, exoplanets, etc.
 
 
-## Star
+### Star
 A star is a luminous spheroid *(ellipsoid having two axes of equal length)* of plasma held together by self-gravity. The observable universe contains an estimated $10^{22}$ to $10^{24}$ stars.
 
 ### Stellar Parameters
@@ -67,7 +67,7 @@ $$
 x = 100^{1/5} = 2.511886
 $$
 
-If a star with magnitude 3 is 2.512 times brighter than magnitude 4 star.
+A star with magnitude 3 is 2.512 times brighter than magnitude 4 star.
 
 ### Variable Stars
 
@@ -84,11 +84,75 @@ Variation due to extrinsic properties :
 2. **Rotating stars that produce extreme starspots**
 3. **Exoplanet Transit**
 
+### Electromagnetic Radiation
+
+It is a wave of the electromagnetic field that propagates itself and carries momentum and radiant energy. In celestial objects like stars, the produced accelerated charges produce these waves at all wavelengths and frequencies.
+
+$$
+c = f \lambda
+$$
+where,
+- $c$ is light speed
+- $f$ is frequency of the radiation
+- $\lambda$ is the wavelength of the radiation
+
+Based on the wavelength and frequency EMR ranges as, 
+
+![Electromagnetic Spectrum](images/EM_spectrum.svg) 
+
+### Blackbody Radiation
+
+A blackbody (ideal body that absorbs all frequencies of radiation) emits radiation across the spectrum at thermal equilibrium.
+
+Stars behave like black bodies and emit radiation across a continuous spectrum of wavelengths but their surface temperature decides their color.
+
+Hotter stars emit more energy, so peak emission shift towards higher frequency. Cooler star's peak emission shift towards radiation at lower frequency.
+
+![](images/Black_body_radiation.svg)
+
+### Photometry
+
+It is the measurement of flux (energy per unit time per unit area) or intensity of electromagnetic radiation emitted by the celestial object.
+
+It is measured by allowing radiation of certain frequencies through optical filters, then this radiation is captured at a detector and its intensity is recorded by turning them into measureable electric signals, through a logarithmic scale flux is transformed into magnitude.
+
+Filters allow a specific band of frequencies and stop other frequencies to decrease noise at the detector.
+
+This is one of the methods used for the observation of variable stars. When the brightness (magnitude or flux) is ploted against time we get a **light curve**.
+
+These light curves can tell about the minute changes in the magnitude of the star.
+
+### Noise
+
+Noise refers to any unwanted variation in measured brightness, that can be caused by,
+- **Photon noise** (Caused due to random nature of arrived photon)
+- **Detector noise** (Detector imperfections, Electronic fluctuation,...)
+- **Background noise** (Light from nearby stars, sky)
+- **Systematic noise** (Temperature changes,...)
+- **Stellar noise** (Starspots, Flares)
 
 
 ## Exoplanets
 
 An exoplanet or extrasolar planet is a planet outside the Solar System. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## References
 [^1]:[Nominal values for selected solar quantities](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41)
