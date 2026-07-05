@@ -91,6 +91,7 @@ It is a wave of the electromagnetic field that propagates itself and carries mom
 $$
 c = f \lambda
 $$
+
 where,
 - $c$ is light speed
 - $f$ is frequency of the radiation
@@ -171,18 +172,18 @@ It is very difficult to find these exoplanet through optical imaging, so most of
 
 Generally, planetary orbits are elliptic.
 
-**Eccentricity [$e$]** - It tells about the shape of the orbit and its deviation from being a circle. For a circle, $e = 0$ and $0 < e < 1$ for an ellipse. 
+**Eccentricity [ $e$ ]** - It tells about the shape of the orbit and its deviation from being a circle. For a circle, $e = 0$ and $0 < e < 1$ for an ellipse. 
 
-**Semi- major axis [$a$]** - It is half the longest axis of the ellipse.
+**Semi- major axis [ $a$ ]** - It is half the longest axis of the ellipse.
 
-**Semi-minor axis [$b$]** - It is half the shortest axis of the ellipse.
+**Semi-minor axis [ $b$ ]** - It is half the shortest axis of the ellipse.
 
-**Inclination [$i$]** - It is the angle (verticle tilt) between orbital plane and reference plane.
+**Inclination [ $i$ ]** - It is the angle (verticle tilt) between orbital plane and reference plane.
 
-**Orbital Period [$P$]** - It is the time taken by the planet for one complete revolution around the star.
+**Orbital Period [ $P$ ]** - It is the time taken by the planet for one complete revolution around the star.
 
-**Longitude of ascending node [$\Omega$]** - Angle from ascending node (intersection line of orbital plane and reference plane) to reference direction.
+**Longitude of ascending node [ $\Omega$ ]** - Angle from ascending node (intersection line of orbital plane and reference plane) to reference direction.
 
 ![Orbital parameters](images/Orbit-parameters.png)
 
-**Epoch [$T_0$]** - It is the reference time at which an event occurs.
+**Epoch [ $T_0$ ]** - It is the reference time at which an event occurs.
