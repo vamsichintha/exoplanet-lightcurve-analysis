@@ -159,11 +159,30 @@ It is very difficult to find these exoplanet through optical imaging, so most of
 3. **Radial velocity** - As the planet revolves around the star, the star revolves around the common center of mass of that planetary system, we can detect this by observing the shift in the radial velocity of the star due to Doppler effect as it moves closer and away from Earth.
 4. **Gravitational Microlensing** - As the planet revolves around the star it causes gravitational lensing to the light coming from the star and causes measurable variation in magnification over time.
 
+### Properties
 
+**Color and brightness** - Color and brightness of an exoplanet depend on its distance from the host star, brightness of the star, albedo (how reflective the planet is) and the distance from observer.
 
+**Magnetic Field** - It is formed due to the flow of metallic liquids at the core, analysing the magnetic field can provide useful information about the internal material of the planet.
 
+**Rings** - Rings can form around the planets due to multiple reasons like trapping of space debris around the planet, etc. These ring systems can interfere in measuring the radius of the planet and also affect the brightness as the amount of light reflecting surface increases.
 
+### Orbital Parameters
 
+Generally, planetary orbits are elliptic.
 
+**Eccentricity [$e$]** - It tells about the shape of the orbit and its deviation from being a circle. For a circle, $e = 0$ and $0 < e < 1$ for an ellipse. 
 
+**Semi- major axis [$a$]** - It is half the longest axis of the ellipse.
 
+**Semi-minor axis [$b$]** - It is half the shortest axis of the ellipse.
+
+**Inclination [$i$]** - It is the angle (verticle tilt) between orbital plane and reference plane.
+
+**Orbital Period [$P$]** - It is the time taken by the planet for one complete revolution around the star.
+
+**Longitude of ascending node [$\Omega$]** - Angle from ascending node (intersection line of orbital plane and reference plane) to reference direction.
+
+![Orbital parameters](images/Orbit-parameters.png)
+
+**Epoch [$T_0$]** - It is the reference time at which an event occurs.
