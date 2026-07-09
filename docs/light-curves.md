@@ -52,13 +52,10 @@ These false positives can be rectified by,
 
 ### Light Curves
 
+It is a curve sketched with light intensity as a function of time,
+- x-axis : Time
+- y-axis : Light intensity
 
-
-
-
-
-
-
-
+Stars and their planets are too small to be captured by optical teliscopes, their are is around 1px in the detector, so by measuring the brightness of that pixel as a function of time, we cam form the light curve.
 
 ### Noise
