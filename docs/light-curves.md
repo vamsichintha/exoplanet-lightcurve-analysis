@@ -31,7 +31,7 @@ This method requires the planet to be in the line of sight from Earth to the sou
 
 ### Transit Method
 
-When a planet crosses infront of the host star (transits), it covers part of the star's light and a small dip brightness of star is observed. If the planet is big then more area is covered and more dip in brightness is observed, for smaller planets the dip is smaller, by analysing the dip we can find the radius of the planet. The ingress time is the time taken for the planet to completely enter the region of loght and egress time is time taken to completely move out of region of light. All this data can be found from the exoplanet's transit light curve.
+When a planet crosses infront of the host star (transits), it covers part of the star's light and a small dip brightness of star is observed. If the planet is big then more area is covered and more dip in brightness is observed, for smaller planets the dip is smaller, by analysing the dip we can find the radius of the planet. The ingress (first contact to second contact) is the time taken for the planet to completely enter the region of loght and egress (third contact to fourth contact) is time taken to completely move out of region of light. All this data can be found from the exoplanet's transit light curve.
 
 But this method too has some limitations. The planet's orbit must be aligned to the line of sight of Earth and the host star, these light curves have high noise, since the dip is ver small, measured in ppm, there can be many false detections. So, another method like radial velocity is used for conformation after this.
 
@@ -46,7 +46,7 @@ There can be **False positives** in this methods. Here, the dip in brightness re
 - **Starspots** - Large starspots forms on star and rotate, when thet pass through in front of the observer it resembles the dip in brightness of a planet.
 
 These false positives can be rectified by,
-- Analysing the shape at the bottom of the transit, false positives have a "V" shaped transit while planet have a "U" shaped or "|_|" flat bottom transits.
+- Analysing the shape at the bottom of the transit, false positives have a "V" shaped transit while planet have a "U" shaped or "\\_/" flat bottom transits.
 - Analysing periodic repetitions in the transits.
 
 
